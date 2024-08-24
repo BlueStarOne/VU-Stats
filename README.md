@@ -1,5 +1,5 @@
 # VU-Stats
-Python programs to calculate you total progression in Vector Unit's games
+Python programs to calculate your total progression in Vector Unit's games
 
 
 ## About the project
