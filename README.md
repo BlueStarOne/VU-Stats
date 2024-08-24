@@ -3,7 +3,7 @@ Python programs to calculate your total progression in Vector Unit's games
 
 
 ## About the project
-Of all the games made by Vector Unit, very few let you know what your total progress is in the game. That's why I decided to create python programs that allow you to know your total progress in the games as well as other things. 
+Of all the games made by Vector Unit, very few let you know what's your total progress is in the game. That's why I decided to create python programs that allow you to know your total progress in the games as well as other things. 
 
 ## Available to download :
 - Beach Buggy Racing 2 Stats
@@ -23,9 +23,12 @@ Of all the games made by Vector Unit, very few let you know what your total prog
 ## How to use
 
 Step 1: Download the python code for the game you want to calculate your progress
-Step 2: Download any python app on your device (I recommend using [ACode](https://play.google.com/store/apps/details?id=com.foxdebug.acode). In this case you will need to install the python 2.0 plugin) 
+
+Step 2: Download any python app on your device (I recommend using [ACode](https://play.google.com/store/apps/details?id=com.foxdebug.acode). In this case you will need to install the python 2.0 plugin)
+
 Step 3: Open the code in the app and run it
-Step 4: Follow the steps
+
+Step 4: Follow the steps of the program
 
 ⚠️ For most of the questions, you will have to look the stats section in your game to find the answer. BUT for some questions you will have to make an estimate. These questions will be highlighted. 
 
