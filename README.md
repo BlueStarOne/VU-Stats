@@ -18,12 +18,14 @@ Of all the games made by Vector Unit, very few let you know what your total prog
 - Calculate your average speed
 - Calculate the average time you will need to level up to the next level
 
+⚠️ Due to some stats missing in the game, the accuracy can't reach 100%. Anyway, the accuracy is at the highest level that can actually be reached
+
 ## How to use
 
 Step 1: Download the python code for the game you want to calculate your progress
-Step 2: Download any python app on your device (I recommend using [ACode](https://play.google.com/store/apps/details?id=com.foxdebug.acode) 
+Step 2: Download any python app on your device (I recommend using [ACode](https://play.google.com/store/apps/details?id=com.foxdebug.acode). In this case you will need to install the python 2.0 plugin) 
 Step 3: Open the code in the app and run it
-Setp 4: Follow the steps
+Step 4: Follow the steps
 
 ⚠️ For most of the questions, you will have to look the stats section in your game to find the answer. BUT for some questions you will have to make an estimate. These questions will be highlighted. 
 
