@@ -40,6 +40,7 @@ Step 4: Follow the steps of the program
 - Riptide GP2
 - Riptide GP : Renegade
 - Beach Buggy Racing 2 : Island Adventure
+- Discord bot
 
 ## Contact me
 
