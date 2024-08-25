@@ -44,7 +44,7 @@ Step 4: Follow the steps of the program
 
 ## Contact me
 
-Discord : @bluestar.one 
+Discord : [@bluestar.one](https://discord.com/invite/Hr9g2EJ3)
 
 ## Disclaimer
 
