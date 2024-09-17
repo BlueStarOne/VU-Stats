@@ -1,4 +1,5 @@
 from math import*
+from time import*
 
 def progression() :
   print("Answer the following questions to calculate your progression in the bbr2 game")
@@ -54,7 +55,7 @@ def progression() :
   print("Your exp progresion is at" ,round(expp,2) ,"%")
   
   driverq=int(input("How many drivers did you unlocked?"))
-  driverp=(driverq*100)/15
+  driverp=(driverq*100)/16
   totalprogress+=driverp
   print("Your drivers progression is at" ,round(driverp,2) , "%")
    
@@ -64,7 +65,7 @@ def progression() :
   print("Your driver outfit progression is at" ,round(driverskinp,2) ,"%")
   
   carsq=int(input("How many cars did you unlocked?"))
-  carsp=(carsq*100)/67
+  carsp=(carsq*100)/68
   totalprogress+=carsp
   print("Your cars progression is at" ,round(carsp,2) ,"%")
   
@@ -173,25 +174,23 @@ def levelup() :
   averagelevelup=(expneededa-currentexp)/averageexp
   print("You should take about" ,round(averagelevelup,0) ,"days to level up to the next level!")
   
-print("---BBR2 PROGRESSION CALCULATOR---")
-print(" ")
-print("Calculate your total progression in the Beach Buggy Racing 2 game and some other cool stuff.")
-print(" ")
+print("---BBR2 PROGRESSION CALCULATOR--- \n")
+sleep(0.5)
+print("Calculate your total progression in the Beach Buggy Racing 2 game and some other cool stuff. \n")
+sleep(0.5)
 print("Select what you want to calculate and answer the questions!")
-print("-> USE THE STATS SECTION IN THE GAME <-")
-print(" ")
+print("-> USE THE STATS SECTION IN THE GAME <- \n")
+sleep(1)
 print("This project is fanmade and is the more accurate possible.")
-print("Note that accuracy can't actually reach 100%.")
-print("")
-print("Enjoy!")
-print(" ")
-print(" ")
-print(" ")
+print("Note that accuracy can't actually reach 100%. \n")
+sleep(1)
+print("Enjoy! \n \n \n")
+sleep(0.5)
 print("Disclaimer : This is not affiliated with Vector Unit or the BBR2 game.")
-print("Full free to share. I'm not reponsible of what may happen if you modify this code.")
-print(" ")
-print("BlueStar1 | discord.gg/R9pMcnUxTa | V 1.3 | ©2024")
-print(" ")
+print("Full free to share. I'm not reponsible of what may happen if you modify this code. \n")
+sleep(1)
+print("BlueStar1 | discord.gg/R9pMcnUxTa | V 1.3 | ©2024 \n")
+sleep(0.5)
 print("What do you want to calculate? (WLR = Win/Loss Ratio)")
 stuff=int(input("1=Progress | 2=Race WLR | 3=Tournaments WLR | 4=Average Speed | 5=Average Time To Levelup"))
 if stuff==1 :
