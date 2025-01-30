@@ -60,17 +60,17 @@ def progression() :
   print("Your drivers progression is at" ,round(driverp,2) , "%")
    
   driverskinq=int(input("How many driver outfits did you unlocked?"))
-  driverskinp=(driverskinq*100)/15
+  driverskinp=(driverskinq*100)/18
   totalprogress+=driverskinp
   print("Your driver outfit progression is at" ,round(driverskinp,2) ,"%")
   
   carsq=int(input("How many cars did you unlocked?"))
-  carsp=(carsq*100)/68
+  carsp=(carsq*100)/69
   totalprogress+=carsp
   print("Your cars progression is at" ,round(carsp,2) ,"%")
   
   carskinq=int(input("How many gold skins did you unlocked?"))
-  carskinp=(carskinq*100)/48
+  carskinp=(carskinq*100)/59
   totalprogress+=carskinp
   print("Your gold skin progression is at" ,round(carskinp,2) ,"%")
   
@@ -189,7 +189,7 @@ sleep(0.5)
 print("Disclaimer : This is not affiliated with Vector Unit or the BBR2 game.")
 print("Full free to share. I'm not reponsible of what may happen if you modify this code. \n")
 sleep(1)
-print("BlueStar1 | discord.gg/R9pMcnUxTa | V 1.3 | ©2024 \n")
+print("BlueStar1 | discord.gg/R9pMcnUxTa | V 1.4 | ©2025 \n")
 sleep(0.5)
 print("What do you want to calculate? (WLR = Win/Loss Ratio)")
 stuff=int(input("1=Progress | 2=Race WLR | 3=Tournaments WLR | 4=Average Speed | 5=Average Time To Levelup"))
